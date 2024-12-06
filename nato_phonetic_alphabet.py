@@ -12,7 +12,7 @@
 import pandas
 
 # Constant
-PATH = r"E:\Learning\Python\Python_Projects\NATO Alphabet Project [Improved with Exception Handling]\nato_phonetic_alphabet.csv"
+PATH = r"./nato_phonetic_alphabet.csv"
 
 # Read csv using pandas
 data = pandas.read_csv(PATH)
