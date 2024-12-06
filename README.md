@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### NATO Alphabet Generator
+# NATO Alphabet Generator
 
 - The NATO Alphabet Generator is a Python program that converts a word into its corresponding NATO phonetic alphabet code. The program reads the NATO alphabet from a CSV file and allows users to input a word, then outputs the phonetic alphabet representation. It includes exception handling to ensure that only valid alphabetic inputs are processed.
 
